@@ -27,4 +27,4 @@ De instalat:
  - Se deschide din bara de navigare din Google sau oricare alta sursa de internet accesand : localhost/acasa - pentru a ajunge pe pagina principala a site-ului
  - Si pentru a intra pe pagina de administrator se va introduce : localhost/phpmyadmin
 
- Link-ul catre tot proiectul cu toate fisierele este urmatorul:    
+ Link-ul catre tot proiectul cu toate fisierele este urmatorul: https://github.com/DiandraRosca/DIANETACADEMY    
