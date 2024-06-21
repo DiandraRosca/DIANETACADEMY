@@ -18,7 +18,8 @@ Așadar, această aplicație web a fost concepută pentru a veni în ajutor asup
 În aplicația mea web, pentru administrarea unei școli de programare, am folosit un server local și anume: XAMPP care include HTTP Server, MySQL, PHP.HTTP (Hypertext Transfer Protocol) este un protocol ce realizează comunicația între clienți și servere pe internet, prin care se permite transferul de date.
 
 De instalat:
- XAMPP Control Panel;
+ -XAMPP Control Panel - pentru server-ul local.
+ -Composer - pentru trimiterea de mail-uri.
  
 
  Pasii de compilare:
